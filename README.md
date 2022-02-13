@@ -5,11 +5,11 @@
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/AADIL-SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/BOT-SER"><img title="Author" src="https://img.shields.io/badge/Author-Aadi-BroR/AADIL-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/BOT-SER"><img title="Author" src="https://img.shields.io/badge/Author-AadiL/AADIL-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/BOT-SER">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/BOT-SER">AADIL-BRO</a> to make it public
     <br>
        | © |
         Reserved |
@@ -32,19 +32,19 @@ Project created by <a href="https://github.com/BOT-SER">Farhan-dqz</a> to make i
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/farhan-dqz/Julie-Mwol
-$ cd Julie-Mwol
+$ git clone https://github.com/BOT-SER/AADIL-SER
+$ cd AADIL-SER
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node julie.js
+$ node AADIL.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd Julie-Mwol
+$ git clone https://github.com/BOT-SER/AADIL-SER
+$ cd AADIL-SER
 $ npm i
-$ node julie.js
+$ node AADIL.js
 ```
 
 ----
