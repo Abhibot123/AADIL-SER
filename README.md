@@ -16,7 +16,7 @@ Project created by <a href="https://github.com/BOT-SER">AADIL-BRO</a> to make it
     <br> 
 </p>
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AADIL-BRO/AADIL-SER&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Abhibot123/AADIL-SER&title=Profile%20Views)
 
 ## Setup
 <div align="center">
